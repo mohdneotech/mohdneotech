@@ -15,6 +15,9 @@ Here are some of the technologies and tools I work with:
 - **Other:** Microsoft, AWS, Cisco, LogicMonitor, Fortinet, ZScaler, Palo Alto,
 
 ## 🌱 Current Projects
+<details>
+
+<summary>click to collapse</summary>
 
 - WaktuSolat Prayer Alert on Twitter: An automated system delivering prayer times via Twitter, reaching over a million followers, powered by PHP & MySQL on AWS.
 - MUW - Malaysia Scuba Diving Community: An online forum fostering a diving community, enabling the exchange of diving tips and experiences on a phpBB platform.
@@ -28,6 +31,8 @@ Here are some of the technologies and tools I work with:
 - Celcom SMSChat 2323: Managed a server integration project, combining SMS with Internet Relay Chat for enhanced telecommunication services.
 - Komuniti PHP-Nuke Malaysia: Supported and grew a community for PHP-Nuke users, providing resources and tutorials for developers.
 - Portal Perkahwinan.com.my: Created a comprehensive online wedding portal, offering resources and information for couples planning their wedding.
+
+</details>
 
 ## 📚 Motivation
 
